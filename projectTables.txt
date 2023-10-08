@@ -1,0 +1,46 @@
+CREATE TABLE [dbo].[Admin]
+(
+	[Id] INT NOT NULL PRIMARY KEY IDENTITY, 
+    [Name] VARCHAR(50) NULL, 
+    [Email] VARCHAR(50) NULL, 
+    [Password] VARCHAR(50) NULL, 
+    [TotalUsers] INT NULL, 
+    [TotalProperty] INT NULL, 
+    [TotalRentProperty] INT NULL, 
+    [TotalSaleProperty] INT NULL, 
+    [City] VARCHAR(50) NULL
+)
+CREATE TABLE [dbo].[User]
+(
+	[Id] INT NOT NULL PRIMARY KEY IDENTITY , 
+    [Name] VARCHAR(50) NULL, 
+    [Email] VARCHAR(50) NULL, 
+    [Password] VARCHAR(10) NULL, 
+
+    [BuyerStatus] VARCHAR(50) NULL, 
+    [SalerStatus] VARCHAR(50) NULL, 
+    [ContactNo] VARCHAR(50) NULL, 
+    [City] VARCHAR(50) NULL, 
+   )
+CREATE TABLE [dbo].[Society] (
+    [Id] INT NOT NULL PRIMARY KEY IDENTITY,
+    [Name]       VARCHAR (50) NULL,
+    [Address]    VARCHAR (50) NULL,
+    [City]       VARCHAR (50) NULL,
+    [PriceIndex] VARCHAR (50) NULL,
+    [properties] VARCHAR (50) NULL,
+   
+    );
+CREATE TABLE [dbo].[Property]
+(
+	[Id] INT NOT NULL PRIMARY KEY IDENTITY, 
+    [UserID] INT NOT NULL, 
+    [City] VARCHAR(50) NULL, 
+    [Type] VARCHAR(50) NULL, 
+    [AreaSize] VARCHAR(50) NULL, 
+    [Address] VARCHAR(50) NULL, 
+    [Status] VARCHAR(50) NULL, 
+    CONSTRAINT [FK_Property_User] FOREIGN KEY ([UserID]) REFERENCES [User]([Id]), 
+    )
+
+Scaffold-DbContext "Data Source=(localdb)\MSSQLLocalDB;Initial Catalog=RealEstate;Integrated Security=True;Connect Timeout=30;Encrypt=False;Trust Server Certificate=False;Application Intent=ReadWrite;Multi Subnet Failover=False" Microsoft.entityframeworkcore.sqlserver

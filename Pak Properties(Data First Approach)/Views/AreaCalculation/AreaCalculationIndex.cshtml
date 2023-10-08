@@ -1,0 +1,57 @@
+﻿
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Pak Property</title>
+<!-- for-mobile-apps -->
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="Pro Property Responsive web template, Bootstrap Web Templates, Flat Web Templates, Android Compatible web template,Smartphone Compatible web template, free web designs for Nokia, Samsung, LG, SonyEricsson, Motorola web design" />
+
+<link rel="stylesheet" href="../css/costStyle.css">
+
+
+</head>
+
+<body>
+	<br>
+<br>
+<div class="sign-up-modal">
+		
+
+		<div class="logo-container">
+			<h1>Area Calculator</h1>				
+		</div>
+
+		<form class="details" action="/AreaCalculation/AreaCalculationDataIndex" method="post">
+			<h1>
+				<div class="input-container">
+						<input  id="area" type="number" min="0" name="area" />
+
+				</div>
+				<label >Choose a Area Unit:</label>
+				<select id="requiredID" name="required">
+				<option value="marla" name="marla">Marla</option>
+				<option value="kanal" name="kanal">Kanal</option>
+				<option value="sqm" name="sqm">Square meter</option>
+				<option value="sqy" name="sqy">Square yard</option>
+				<option value="sqi" name="sqi">Square inch</option>
+				<option value="hectare" name="hectare">Hectare</option>
+				<option value="acre" name="acre">Acre</option>
+					</select>
+
+			</h1>
+				<input  type="submit" value="Submit">
+				
+			
+		</form>
+</div>
+<script>
+	$("#close-modal-button").click(function() {
+		$(".sign-up-modal").fadeOut(200);
+		$(".sign-up-modal").fadeIn(200);
+});
+</script>
+</body>
+</html>
+

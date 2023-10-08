@@ -1,0 +1,130 @@
+﻿/* Fonts */
+@import url('https://fonts.googleapis.com/css?family=Abel|Abril+Fatface|Changa|Dancing+Script|Dosis|Farsan|Fjalla+One|Holtwood+One+SC|Kumar+One|Lobster|Open+Sans+Condensed:300|Oxygen|Pacifico|Play|Playfair+Display|Yanone+Kaffeesatz');
+/* 
+font-family: 'Holtwood One SC', serif;
+font-family: 'Open Sans Condensed', sans-serif;
+font-family: 'Playfair Display', serif;
+font-family: 'Dosis', sans-serif;
+font-family: 'Fjalla One', sans-serif;
+font-family: 'Kumar One', cursive;
+font-family: 'Pacifico', cursive;
+font-family: 'Changa', sans-serif;
+font-family: 'Oxygen', sans-serif;
+font-family: 'Lobster', cursive;
+font-family: 'Yanone Kaffeesatz', sans-serif;
+font-family: 'Abel', sans-serif;
+font-family: 'Abril Fatface', cursive;
+font-family: 'Farsan', cursive;
+font-family: 'Play', sans-serif;
+font-family: 'Dancing Script', cursive; */
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    color: skyblue;
+}
+
+body {
+    background-color: #ffffff;
+    /*   background-image:url("http://unsplash.com/photos/vMTjgtt6mr8/download?force=true"); */
+    background-image: url("http://interiorexteriordoors.com/wp-content/uploads/parser/wood-design-wallpaper-4.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.clear {
+    clear: both;
+}
+
+.con1 {
+    width: 70%;
+    margin: auto;
+}
+
+h1 {
+    font-size: 7em;
+    text-align: center;
+    line-height: 1.7;
+    font-family: 'Abril Fatface', cursive;
+    color: rgba(0,0,0,0.6);
+    text-shadow: 5px 5px 5px rgba(255,255,255,0.1);
+}
+
+.con1 .wood-f {
+    padding-bottom: 9%
+}
+
+    .con1 .wood-f input {
+        display: inline;
+        width: 49%;
+        margin-top: 3%;
+        padding: 15px;
+        background-color: skyblue;
+        color: #F0F3BD;
+        font-family: Inconsolata;
+        font-size: 20px;
+        font-family: 'Abel', sans-serif;
+        outline: none;
+        border-radius: 5px;
+        border: 2px solid #533E2D;
+        border-bottom: 6px solid #352721;
+        transition: .5s;
+    }
+
+        .con1 .wood-f input:focus {
+            background-color: #242331;
+            border-bottom: 6px solid #352721;
+            border-top: 2px solid #DDCA7D;
+            /*   border:2px solid #DDCA7D; */
+        }
+
+.wood-f input:hover {
+    border-top: 2px solid #DDCA7D;
+    color: #DEDAA9;
+}
+
+.con1 .wood-f .button[type="submit"]:hover {
+    border-bottom: 3px solid #74AF96;
+    /*     color: #1A202C; */
+    transition: .5s;
+    cursor: pointer;
+    outline: 0;
+}
+
+.con1 .wood-f .button {
+    width: 24.5%
+}
+/* Start Footre */
+.footer {
+    padding: 10px;
+    background-color: #0f0800;
+    font-size: 25px;
+    text-align: center;
+    line-height: 1.7;
+    font-family: 'Abel', sans-serif;
+    border-top: 2px solid #74AF96;
+}
+
+a,
+a:link,
+a:active,
+a:visited,
+a:hover {
+    /*     color:           #74AF96; */
+    color: #d30;
+    text-decoration: none;
+    transition: .5s;
+}
+
+p {
+    color: #242331;
+}
+
+a:hover {
+    color: #74AF96;
+}
+
+span {
+    color: #242331;
+}

@@ -1,0 +1,397 @@
+﻿@{
+	Layout = "~/Views/Shared/NavBarLayout.cshtml";
+}
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+	<title>UserDashBoard</title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+	<link href="https://fonts.googleapis.com/css?family=Poppins:200,300,400,500,600,700,800,900&display=swap" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Playfair+Display:400,400i,500,500i,600,600i,700,700i&display=swap" rel="stylesheet">
+
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+
+	<link rel="stylesheet" href="../css/dashboardStyle/animate.css">
+
+	<link rel="stylesheet" href="../css/dashboardStyle/owl.carousel.min.css">
+	<link rel="stylesheet" href="../css/dashboardStyle/owl.theme.default.min.css">
+	<link rel="stylesheet" href="../css/dashboardStyle/magnific-popup.css">
+
+	<link rel="stylesheet" href="../css/dashboardStyle/bootstrap-datepicker.css">
+	<link rel="stylesheet" href="../css/dashboardStyle/jquery.timepicker.css">
+
+	<link rel="stylesheet" href="../css/dashboardStyle/flaticon.css">
+	<link rel="stylesheet" href="../css/dashboardStyle/style.css">
+	<link rel="stylesheet" href="../css/aboutUsStyle/style.css">
+  </head>
+  <body>
+
+
+	<div class="site-hero inner-page overlay" style="background-image: url('../images/d9.jpeg');" data-stellar-background-ratio="0.5">
+	  <div class="overlay"></div>
+	  <div class="container">
+		<div class="row no-gutters slider-text js-fullheight align-items-center justify-content-start" data-scrollax-parent="true">
+		  <div class="col-md-7 ftco-animate">
+			  <h2 class="subheading">Welcome to Pak Properties</h2>
+			  <h1 class="mb-4">Find a place for lifetime</h1>
+					
+
+		  </div>
+		</div>
+	  </div>
+	</div>
+
+	
+
+	<section class="ftco-section ftco-services">
+		<div class="container">
+			<div class="row">
+		  <div class="col-md-4 d-flex services align-self-stretch px-4 ftco-animate">
+			<div class="d-block services-wrap text-center">
+			  <div class="img" style="background-image: url(../images/dashboardImages/services-1.jpg);"></div>
+			  <div class="media-body py-4 px-3">
+				<h3 class="heading">Map Direction</h3>
+							<p>"Navigate with ease using our intuitive map directions to reach your desired destination."</p>
+				<p><a href="/ManageProperty/AddPropertyIndex" class="btn btn-primary">Add Property</a></p>
+			  </div>
+			</div>      
+		  </div>
+				
+		  <div class="col-md-4 d-flex services align-self-stretch px-4 ftco-animate">
+			<div class="d-block services-wrap text-center">
+			  <div class="img" style="background-image: url(../images/dashboardImages/services-2.jpg);"></div>
+			  <div class="media-body py-4 px-3">
+				<h3 class="heading">Accomodation Services</h3>
+							<p>"Experience top-notch accommodation services tailored to your needs for a comfortable stay."</p>
+				<p><a href="/ManageProperty/UpdatePropertyIndex" class="btn btn-primary">Update Property</a></p>
+			  </div>
+			</div>    
+		  </div>
+		  <div class="col-md-4 d-flex services align-self-stretch px-4 ftco-animate">
+			<div class="d-block services-wrap text-center">
+			  <div class="img" style="background-image: url(../images/download1.jpg);"></div>
+			  <div class="media-body py-4 px-3">
+				<h3 class="heading">Great Experience</h3>
+				<p>"Indulge in a truly remarkable and unforgettable experience."</p>
+				<p><a href="/ManageProperty/RemovePropertyIndex" class="btn btn-primary">Remove Property</a></p>
+			  </div>
+			</div>      
+		  </div>
+		</div>
+
+		<div class="row">
+		<div class="col-md-4 d-flex services align-self-stretch px-4 ftco-animate">
+			<div class="d-block services-wrap text-center">
+			  <div class="img" style="background-image: url(../images/download1.jpg);"></div>
+			  <div class="media-body py-4 px-3">
+				<h3 class="heading">Updated Society Price Index</h3>
+				<p>"Indulge in a truly remarkable and unforgettable experience."</p>
+				<p><a href="/ScietyPriceIndex/SocietyPriceRankIndex" class="btn btn-primary">ScietyPriceIndex</a></p>
+			  </div>
+			</div>      
+		  </div>
+		
+		<div class="col-md-4 d-flex services align-self-stretch px-4 ftco-animate">
+			<div class="d-block services-wrap text-center">
+			  <div class="img" style="background-image: url(../images/download1.jpg);"></div>
+			  <div class="media-body py-4 px-3">
+				<h3 class="heading">Efficient Calculation of Area</h3>
+				<p>"Indulge in a truly remarkable and unforgettable experience."</p>
+				<p><a href="/AreaCalculation/AreaCalculationIndex" class="btn btn-primary">AreaCalculation</a></p>
+			  </div>
+			</div>      
+		  </div>
+		
+		<div class="col-md-4 d-flex services align-self-stretch px-4 ftco-animate">
+			<div class="d-block services-wrap text-center">
+			  <div class="img" style="background-image: url(../images/download1.jpg);"></div>
+			  <div class="media-body py-4 px-3">
+				<h3 class="heading">Contruction Cost</h3>
+				<p>"Indulge in a truly remarkable and unforgettable experience."</p>
+				<p><a href="/Cost/CostIndex" class="btn btn-primary">Construction Cost</a></p>
+			  </div>
+			</div>      
+		  </div>
+		
+	
+@*
+		<p class="mb-0"> 
+							<a href="/AreaCalculation/AreaCalculationIndex" class="btn btn-white px-4 py-3">AreaCalculation</a></p>
+							<p class="mb-0"> 
+							<a href="/Cost/CostIndex" class="btn btn-white px-4 py-3">Construction Cost</a></p>*@
+		
+		</div>
+	</section>
+	@{
+		string userEmail = Context.Session.GetString("UserEmail");
+	}
+
+	<h2>Welcome, @userEmail!</h2>
+
+<div class="container">
+    <div class="row p-1">
+        <div class="col-6">
+            <ul id="messagesList"></ul>
+        </div>
+    </div>
+</div>
+<script src="~/js/signalr/dist/browser/signalr.js"></script>
+<script src="~/js/chat.js"></script>
+
+	
+	<section class="ftco-section testimony-section bg-light">
+	  <div class="container">
+		<div class="row justify-content-center pb-5 mb-3">
+		  <div class="col-md-7 heading-section text-center ftco-animate">
+
+					@Html.Partial("_PropertyID")
+
+			<h2>Happy Clients &amp; Feedbacks</h2>
+		  </div>
+		</div>
+		<div class="row ftco-animate">
+		  <div class="col-md-12">
+			<div class="carousel-testimony owl-carousel">
+							<div class="item">
+				<div class="testimony-wrap d-flex">
+				  <div class="user-img" style="background-image: url(../images/d10.jpg)">
+				  </div>
+				  <div class="text pl-4">
+					  <span class="quote d-flex align-items-center justify-content-center">
+					  <i class="fa fa-quote-left"></i>
+					</span>
+									<p>"The property website played a crucial role in promoting equitable access to housing and provided transparent information, empowering individuals and communities to make informed decisions and find safe and affordable housing options."</p>
+					<p class="name">Yahya</p>
+									<span class="position">Social Activist</span>
+				  </div>
+				</div>
+			  </div>
+			  <div class="item">
+				<div class="testimony-wrap d-flex">
+				  <div class="user-img" style="background-image: url(../images/d10.jpg)">
+				  </div>
+				  <div class="text pl-4">
+					  <span class="quote d-flex align-items-center justify-content-center">
+					  <i class="fa fa-quote-left"></i>
+					</span>
+									<p>"The property website was easy to navigate, and I found the perfect home for my family in just a few clicks. Highly recommended for anyone looking to buy or rent a property."</p>
+					<p class="name">Azlan</p>
+					<span class="position">Player</span>
+				  </div>
+				</div>
+			  </div>
+
+
+			  <div class="item">
+				<div class="testimony-wrap d-flex">
+				  <div class="user-img" style="background-image: url(../images/d10.jpg)">
+				  </div>
+				  <div class="text pl-4">
+					  <span class="quote d-flex align-items-center justify-content-center">
+					  <i class="fa fa-quote-left"></i>
+					</span>
+									<p>"The property website provided comprehensive listings and valuable market insights, making it a valuable tool for business professionals like me seeking investment opportunities in the real estate market."</p>
+					<p class="name">Zaraar</p>
+					<span class="position">Businessman</span>
+				  </div>
+				</div>
+			  </div>
+						</div>
+		  </div>
+		</div>
+	  </div>
+	</section>
+
+	<section class="ftco-section bg-light">
+			<div class="container">
+				<div class="row no-gutters">
+					<div class="col-md-6 wrap-about">
+						<div class="img img-2 mb-4" style="background-image: url(../images/d12.jpeg);">
+						</div>
+						<h2>The most recommended Property Website</h2>
+					<p>The most recommended property website is a comprehensive and user-friendly platform that caters to the diverse needs of property seekers. With its extensive database of listings and advanced search filters, it offers a seamless experience in finding the perfect property. The website's intuitive interface, detailed property descriptions, high-resolution images, and virtual tours provide an immersive view of the properties. Additionally, its reliable and responsive customer support ensures that users receive prompt assistance throughout their property search journey. With its commitment to accuracy, transparency, and user satisfaction, this property website has become the go-to destination for individuals and families looking to find their dream homes.</p>
+					</div>
+					<div class="col-md-6 wrap-about ftco-animate">
+			  <div class="heading-section">
+				  <div class="pl-md-5">
+					<h2 class="mb-2">What we offer</h2>
+				</div>
+			  </div>
+			  <div class="pl-md-5">
+						<p>"We offer a wide range of properties to suit every need and budget."</p>
+							<div class="row">
+					<div class="services-2 col-lg-6 d-flex w-100">
+					  <div class="icon d-flex justify-content-center align-items-center">
+							<span class="flaticon-diet"></span>
+					  </div>
+					  <div class="media-body pl-3">
+						<h3 class="heading">Apartments</h3>
+									<p>"Discover luxurious apartments that redefine modern living."</p>
+					  </div>
+					</div> 
+					<div class="services-2 col-lg-6 d-flex w-100">
+					  <div class="icon d-flex justify-content-center align-items-center">
+							<span class="flaticon-workout"></span>
+					  </div>
+					  <div class="media-body pl-3">
+						<h3 class="heading">Homes</h3>
+									<p>"Discover your dream home among our extensive listings."</p>
+					  </div>
+					</div>
+					<div class="services-2 col-lg-6 d-flex w-100">
+					  <div class="icon d-flex justify-content-center align-items-center">
+							<span class="flaticon-diet-1"></span>
+					  </div>
+					  <div class="media-body pl-3">
+						<h3 class="heading">Offices</h3>
+									<p>"Discover exceptional office spaces tailored to elevate your business."</p>
+					  </div>
+					</div>      
+					<div class="services-2 col-lg-6 d-flex w-100">
+					  <div class="icon d-flex justify-content-center align-items-center">
+							<span class="flaticon-first"></span>
+					  </div>
+					  <div class="media-body pl-3">
+						<h3 class="heading">Townhoues</h3>
+									<p>"Discover the charm and convenience of townhouse living."</p>
+					  </div>
+					</div>
+					<div class="services-2 col-lg-6 d-flex w-100">
+					  <div class="icon d-flex justify-content-center align-items-center">
+							<span class="flaticon-first"></span>
+					  </div>
+					  <div class="media-body pl-3">
+						<h3 class="heading">Buildings</h3>
+									<p>"Discover exceptional buildings that redefine modern living."</p>
+					  </div>
+					</div> 
+					<div class="services-2 col-lg-6 d-flex w-100">
+					  <div class="icon d-flex justify-content-center align-items-center">
+							<span class="flaticon-first"></span>
+					  </div>
+					  <div class="media-body pl-3">
+						<h3 class="heading">Rent a House</h3>
+									<p>"Find your perfect rental home with ease."</p>
+					  </div>
+					</div> 
+					<div class="services-2 col-lg-6 d-flex w-100">
+					  <div class="icon d-flex justify-content-center align-items-center">
+							<span class="flaticon-first"></span>
+					  </div>
+					  <div class="media-body pl-3">
+						<h3 class="heading">Shops</h3>
+									<p>"Discover prime commercial spaces for your business needs."</p>
+					  </div>
+					</div> 
+					<div class="services-2 col-lg-6 d-flex w-100">
+					  <div class="icon d-flex justify-content-center align-items-center">
+							<span class="flaticon-first"></span>
+					  </div>
+					  <div class="media-body pl-3">
+						<h3 class="heading">Villas</h3>
+									<p>"Experience luxury living with our exclusive villa rentals."</p>
+					  </div>
+					</div>
+				  </div>  
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+
+		<section class="ftco-intro" style="background-image: url(../images/d13.jpeg);" data-stellar-background-ratio="0.5">
+			<div class="overlay"></div>
+			<div class="container">
+				<div class="row justify-content-center">
+					<div class="col-md-9 text-center">
+						<h2>Ready to get started</h2>
+						<p class="mb-4">It’s safe to book online with us! Get your dream property in clicks or drop us a line with your questions.</p>
+						<p class="mb-0"> 
+							<a href="/Search/SearchPropertyIndex" class="btn btn-white px-4 py-3">Search Property</a></p>
+					</div>
+				</div>
+			</div>
+		</section>
+
+
+
+	<footer class="footer">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-6 col-lg-3 mb-md-0 mb-4">
+						<h2 class="footer-heading"><a href="#" class="logo">Pak Property</a></h2>
+					<p>"Discover your perfect property with ease on our comprehensive and user-friendly website."</p>
+
+					</div>
+					<div class="col-md-6 col-lg-3 mb-md-0 mb-4">
+						<h2 class="footer-heading">Services</h2>
+						<ul class="list-unstyled">
+			  <li><a href="#" class="py-1 d-block">Map Direction</a></li>
+			  <li><a href="#" class="py-1 d-block">Accomodation Services</a></li>
+			  <li><a href="#" class="py-1 d-block">Great Experience</a></li>
+			  <li><a href="#" class="py-1 d-block">Perfect location</a></li>
+			</ul>
+					</div>
+
+					<div class="col-md-6 col-lg-3 mb-md-0 mb-4">
+
+			</form>
+			<h2 class="footer-heading mt-5">Follow us</h2>
+			<ul class="ftco-footer-social p-0">
+			  <li class="ftco-animate"><a href="#" data-toggle="tooltip" data-placement="top" title="Twitter"><span class="fa fa-twitter"></span></a></li>
+			  <li class="ftco-animate"><a href="#" data-toggle="tooltip" data-placement="top" title="Facebook"><span class="fa fa-facebook"></span></a></li>
+			  <li class="ftco-animate"><a href="#" data-toggle="tooltip" data-placement="top" title="Instagram"><span class="fa fa-instagram"></span></a></li>
+			</ul>
+					</div>
+				</div>
+			</div>
+			<div class="w-100 mt-5 border-top py-5">
+				<div class="container">
+					<div class="row">
+			  <div class="col-md-6 col-lg-8">
+
+				<p class="copyright mb-0"><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+	  Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib.com</a>
+	  <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
+			  </div>
+			  <div class="col-md-6 col-lg-4 text-md-right">
+				  <p class="mb-0 list-unstyled">
+					  <a class="mr-md-3" href="#">Terms</a>
+					  <a class="mr-md-3" href="#">Privacy</a>
+					  <a class="mr-md-3" href="#">Compliances</a>
+				  </p>
+			  </div>
+			</div>
+				</div>
+			</div>
+		</footer>
+
+
+
+  <!-- loader -->
+  <div id="ftco-loader" class="show fullscreen"><svg class="circular" width="48px" height="48px"><circle class="path-bg" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke="#eeeeee"/><circle class="path" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke-miterlimit="10" stroke="#F96D00"/></svg></div>
+
+
+  <script src="../js/dashboardJS/jquery.min.js"></script>
+  <script src="../js/dashboardJS/jquery-migrate-3.0.1.min.js"></script>
+  <script src="../js/dashboardJS/popper.min.js"></script>
+  <script src="../js/dashboardJS/bootstrap.min.js"></script>
+  <script src="../js/dashboardJS/jquery.easing.1.3.js"></script>
+  <script src="../js/dashboardJS/jquery.waypoints.min.js"></script>
+  <script src="../js/dashboardJS/jquery.stellar.min.js"></script>
+  <script src="../js/dashboardJS/jquery.animateNumber.min.js"></script>
+  <script src="../js/dashboardJS/bootstrap-datepicker.js"></script>
+  <script src="../js/dashboardJS/jquery.timepicker.min.js"></script>
+  <script src="../js/dashboardJS/owl.carousel.min.js"></script>
+  <script src="../js/dashboardJS/jquery.magnific-popup.min.js"></script>
+  <script src="../js/dashboardJS/scrollax.min.js"></script>
+  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&sensor=false"></script>
+  <script src="../js/dashboardJS/google-map.js"></script>
+  <script src="../js/dashboardJS/main.js"></script>
+
+
+
+  </body>
+</html>

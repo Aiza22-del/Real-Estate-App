@@ -1,0 +1,121 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Pak_Properties
+build_property.RootNamespace = Pak_Properties
+build_property.ProjectDir = W:\University\6th Smester\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\Pak Properties\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = W:\University\6th Smester\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\Pak Properties
+build_property._RazorSourceGeneratorDebug = 
+
+[W:/University/6th Smester/2. Software Construction & Development (Dr. Shuja ur Rehman Baig)/Pak Properties/Views/AboutUs/AboutUsIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRVc1xBYm91dFVzSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/University/6th Smester/2. Software Construction & Development (Dr. Shuja ur Rehman Baig)/Pak Properties/Views/AdminDashboard/AdminDashboardIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5EYXNoYm9hcmRcQWRtaW5EYXNoYm9hcmRJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/University/6th Smester/2. Software Construction & Development (Dr. Shuja ur Rehman Baig)/Pak Properties/Views/AdminLogin/AdminLoginIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5Mb2dpblxBZG1pbkxvZ2luSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/University/6th Smester/2. Software Construction & Development (Dr. Shuja ur Rehman Baig)/Pak Properties/Views/AreaCalculation/AreaCalculationIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJlYUNhbGN1bGF0aW9uXEFyZWFDYWxjdWxhdGlvbkluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/University/6th Smester/2. Software Construction & Development (Dr. Shuja ur Rehman Baig)/Pak Properties/Views/Contact/ContactUsIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdFxDb250YWN0VXNJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/University/6th Smester/2. Software Construction & Development (Dr. Shuja ur Rehman Baig)/Pak Properties/Views/Cost/CostIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29zdFxDb3N0SW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/University/6th Smester/2. Software Construction & Development (Dr. Shuja ur Rehman Baig)/Pak Properties/Views/Dashboard/DashboardIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkXERhc2hib2FyZEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/University/6th Smester/2. Software Construction & Development (Dr. Shuja ur Rehman Baig)/Pak Properties/Views/FAQ/FAQIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRkFRXEZBUUluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/University/6th Smester/2. Software Construction & Development (Dr. Shuja ur Rehman Baig)/Pak Properties/Views/Home/HomeIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxIb21lSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/University/6th Smester/2. Software Construction & Development (Dr. Shuja ur Rehman Baig)/Pak Properties/Views/Login/LoginIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cTG9naW5JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/University/6th Smester/2. Software Construction & Development (Dr. Shuja ur Rehman Baig)/Pak Properties/Views/ManageProperty/AddPropertyIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFuYWdlUHJvcGVydHlcQWRkUHJvcGVydHlJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/University/6th Smester/2. Software Construction & Development (Dr. Shuja ur Rehman Baig)/Pak Properties/Views/ManageProperty/RemovePropertyIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFuYWdlUHJvcGVydHlcUmVtb3ZlUHJvcGVydHlJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/University/6th Smester/2. Software Construction & Development (Dr. Shuja ur Rehman Baig)/Pak Properties/Views/ManageProperty/UpdatePropertyDataIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFuYWdlUHJvcGVydHlcVXBkYXRlUHJvcGVydHlEYXRhSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/University/6th Smester/2. Software Construction & Development (Dr. Shuja ur Rehman Baig)/Pak Properties/Views/ManageProperty/UpdatePropertyIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFuYWdlUHJvcGVydHlcVXBkYXRlUHJvcGVydHlJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/University/6th Smester/2. Software Construction & Development (Dr. Shuja ur Rehman Baig)/Pak Properties/Views/ManageSociety/AddSocietyIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFuYWdlU29jaWV0eVxBZGRTb2NpZXR5SW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/University/6th Smester/2. Software Construction & Development (Dr. Shuja ur Rehman Baig)/Pak Properties/Views/ManageSociety/RemoveSocietyIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFuYWdlU29jaWV0eVxSZW1vdmVTb2NpZXR5SW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/University/6th Smester/2. Software Construction & Development (Dr. Shuja ur Rehman Baig)/Pak Properties/Views/ManageSociety/UpdateSocietyDataIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFuYWdlU29jaWV0eVxVcGRhdGVTb2NpZXR5RGF0YUluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/University/6th Smester/2. Software Construction & Development (Dr. Shuja ur Rehman Baig)/Pak Properties/Views/ManageSociety/UpdateSocietyIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFuYWdlU29jaWV0eVxVcGRhdGVTb2NpZXR5SW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/University/6th Smester/2. Software Construction & Development (Dr. Shuja ur Rehman Baig)/Pak Properties/Views/Search/SearchIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VhcmNoXFNlYXJjaEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/University/6th Smester/2. Software Construction & Development (Dr. Shuja ur Rehman Baig)/Pak Properties/Views/Services/ServicesIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljZXNcU2VydmljZXNJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/University/6th Smester/2. Software Construction & Development (Dr. Shuja ur Rehman Baig)/Pak Properties/Views/Shared/NavBarLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXE5hdkJhckxheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/University/6th Smester/2. Software Construction & Development (Dr. Shuja ur Rehman Baig)/Pak Properties/Views/Shared/_PropertyID.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Qcm9wZXJ0eUlELmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/University/6th Smester/2. Software Construction & Development (Dr. Shuja ur Rehman Baig)/Pak Properties/Views/SocietyPriceIndex/SocietyPriceRankIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU29jaWV0eVByaWNlSW5kZXhcU29jaWV0eVByaWNlUmFua0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/University/6th Smester/2. Software Construction & Development (Dr. Shuja ur Rehman Baig)/Pak Properties/Views/Society/SocietyIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU29jaWV0eVxTb2NpZXR5SW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/University/6th Smester/2. Software Construction & Development (Dr. Shuja ur Rehman Baig)/Pak Properties/Views/temp/tempIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdGVtcFx0ZW1wSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/University/6th Smester/2. Software Construction & Development (Dr. Shuja ur Rehman Baig)/Pak Properties/Views/User/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

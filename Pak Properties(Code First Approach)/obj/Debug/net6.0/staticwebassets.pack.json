@@ -1,0 +1,1997 @@
+{
+  "Files": [
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\css\\AreaStyle.css",
+      "PackagePath": "staticwebassets\\css\\AreaStyle.css"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\css\\SearchStyle.css",
+      "PackagePath": "staticwebassets\\css\\SearchStyle.css"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\css\\Style11.css",
+      "PackagePath": "staticwebassets\\css\\Style11.css"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\css\\StyleSheet.css",
+      "PackagePath": "staticwebassets\\css\\StyleSheet.css"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\css\\aboutUsStyle\\_custom.css",
+      "PackagePath": "staticwebassets\\css\\aboutUsStyle\\_custom.css"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\css\\aboutUsStyle\\animate.css",
+      "PackagePath": "staticwebassets\\css\\aboutUsStyle\\animate.css"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\css\\aboutUsStyle\\aos.css",
+      "PackagePath": "staticwebassets\\css\\aboutUsStyle\\aos.css"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\css\\aboutUsStyle\\bootstrap-datepicker.css",
+      "PackagePath": "staticwebassets\\css\\aboutUsStyle\\bootstrap-datepicker.css"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\css\\aboutUsStyle\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\css\\aboutUsStyle\\bootstrap-grid.css"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\css\\aboutUsStyle\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\css\\aboutUsStyle\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\css\\aboutUsStyle\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\aboutUsStyle\\bootstrap.css"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\css\\aboutUsStyle\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\css\\aboutUsStyle\\bootstrap.css.map"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\css\\aboutUsStyle\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\aboutUsStyle\\bootstrap.min.css"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\css\\aboutUsStyle\\fancybox.min.css",
+      "PackagePath": "staticwebassets\\css\\aboutUsStyle\\fancybox.min.css"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\css\\aboutUsStyle\\jquery.timepicker.css",
+      "PackagePath": "staticwebassets\\css\\aboutUsStyle\\jquery.timepicker.css"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\css\\aboutUsStyle\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\css\\aboutUsStyle\\magnific-popup.css"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\css\\aboutUsStyle\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\css\\aboutUsStyle\\owl.carousel.min.css"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\css\\aboutUsStyle\\style.css",
+      "PackagePath": "staticwebassets\\css\\aboutUsStyle\\style.css"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\css\\adminDashboardStyle\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\adminDashboardStyle\\bootstrap.min.css"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\css\\adminDashboardStyle\\style.css",
+      "PackagePath": "staticwebassets\\css\\adminDashboardStyle\\style.css"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\css\\bootStrap.css",
+      "PackagePath": "staticwebassets\\css\\bootStrap.css"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\css\\costStyle.css",
+      "PackagePath": "staticwebassets\\css\\costStyle.css"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\css\\dashboardStyle\\animate.css",
+      "PackagePath": "staticwebassets\\css\\dashboardStyle\\animate.css"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\css\\dashboardStyle\\bootstrap-datepicker.css",
+      "PackagePath": "staticwebassets\\css\\dashboardStyle\\bootstrap-datepicker.css"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\css\\dashboardStyle\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\dashboardStyle\\bootstrap.min.css"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\css\\dashboardStyle\\flaticon.css",
+      "PackagePath": "staticwebassets\\css\\dashboardStyle\\flaticon.css"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\css\\dashboardStyle\\jquery.timepicker.css",
+      "PackagePath": "staticwebassets\\css\\dashboardStyle\\jquery.timepicker.css"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\css\\dashboardStyle\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\css\\dashboardStyle\\magnific-popup.css"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\css\\dashboardStyle\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\css\\dashboardStyle\\owl.carousel.min.css"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\css\\dashboardStyle\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\css\\dashboardStyle\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\css\\dashboardStyle\\style.css",
+      "PackagePath": "staticwebassets\\css\\dashboardStyle\\style.css"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\css\\faqStyle\\animate.css",
+      "PackagePath": "staticwebassets\\css\\faqStyle\\animate.css"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\css\\faqStyle\\aos.css",
+      "PackagePath": "staticwebassets\\css\\faqStyle\\aos.css"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\css\\faqStyle\\bootstrap-datepicker.css",
+      "PackagePath": "staticwebassets\\css\\faqStyle\\bootstrap-datepicker.css"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\css\\faqStyle\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\faqStyle\\bootstrap.min.css"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\css\\faqStyle\\flaticon.css",
+      "PackagePath": "staticwebassets\\css\\faqStyle\\flaticon.css"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\css\\faqStyle\\icomoon.css",
+      "PackagePath": "staticwebassets\\css\\faqStyle\\icomoon.css"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\css\\faqStyle\\ionicons.min.css",
+      "PackagePath": "staticwebassets\\css\\faqStyle\\ionicons.min.css"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\css\\faqStyle\\jquery.timepicker.css",
+      "PackagePath": "staticwebassets\\css\\faqStyle\\jquery.timepicker.css"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\css\\faqStyle\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\css\\faqStyle\\magnific-popup.css"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\css\\faqStyle\\open-iconic-bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\faqStyle\\open-iconic-bootstrap.min.css"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\css\\faqStyle\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\css\\faqStyle\\owl.carousel.min.css"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\css\\faqStyle\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\css\\faqStyle\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\css\\faqStyle\\style.css",
+      "PackagePath": "staticwebassets\\css\\faqStyle\\style.css"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\css\\font.css",
+      "PackagePath": "staticwebassets\\css\\font.css"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\css\\homeStyle.css",
+      "PackagePath": "staticwebassets\\css\\homeStyle.css"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\css\\loginStyle.css",
+      "PackagePath": "staticwebassets\\css\\loginStyle.css"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\css\\managePropertyStyle\\fontawesome-all.min.css",
+      "PackagePath": "staticwebassets\\css\\managePropertyStyle\\fontawesome-all.min.css"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\css\\managePropertyStyle\\main.css",
+      "PackagePath": "staticwebassets\\css\\managePropertyStyle\\main.css"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\css\\managePropertyStyle\\propertyDataStyle.css",
+      "PackagePath": "staticwebassets\\css\\managePropertyStyle\\propertyDataStyle.css"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\css\\plugin.css",
+      "PackagePath": "staticwebassets\\css\\plugin.css"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\css\\purple.css",
+      "PackagePath": "staticwebassets\\css\\purple.css"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\css\\search-bootstrap-theme.css",
+      "PackagePath": "staticwebassets\\css\\search-bootstrap-theme.css"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\css\\search-bootstrap-theme.min.css",
+      "PackagePath": "staticwebassets\\css\\search-bootstrap-theme.min.css"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\css\\search-bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\search-bootstrap.css"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\css\\search-bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\search-bootstrap.min.css"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\css\\search-datepicker.css",
+      "PackagePath": "staticwebassets\\css\\search-datepicker.css"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\css\\search-fontAwesome.css",
+      "PackagePath": "staticwebassets\\css\\search-fontAwesome.css"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\css\\search-hero-slider.css",
+      "PackagePath": "staticwebassets\\css\\search-hero-slider.css"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\css\\search-owl-carousel.css",
+      "PackagePath": "staticwebassets\\css\\search-owl-carousel.css"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\css\\search-templatemo-style.css",
+      "PackagePath": "staticwebassets\\css\\search-templatemo-style.css"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\css\\societyPriceRankStyle\\societyPriceRankStyle.css",
+      "PackagePath": "staticwebassets\\css\\societyPriceRankStyle\\societyPriceRankStyle.css"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\css\\swapBox.css",
+      "PackagePath": "staticwebassets\\css\\swapBox.css"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\css\\tempBS.css",
+      "PackagePath": "staticwebassets\\css\\tempBS.css"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\css\\tempHome.css",
+      "PackagePath": "staticwebassets\\css\\tempHome.css"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\font-awesome\\HELP-US-OUT.txt",
+      "PackagePath": "staticwebassets\\font-awesome\\HELP-US-OUT.txt"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\font-awesome\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\font-awesome\\css\\font-awesome.css"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\font-awesome\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\font-awesome\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\font-awesome\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\font-awesome\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\font-awesome\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\font-awesome\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\font-awesome\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\font-awesome\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\font-awesome\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\font-awesome\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\font-awesome\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\font-awesome\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\font-awesome\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\font-awesome\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\font-awesome\\less\\animated.less",
+      "PackagePath": "staticwebassets\\font-awesome\\less\\animated.less"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\font-awesome\\less\\bordered-pulled.less",
+      "PackagePath": "staticwebassets\\font-awesome\\less\\bordered-pulled.less"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\font-awesome\\less\\core.less",
+      "PackagePath": "staticwebassets\\font-awesome\\less\\core.less"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\font-awesome\\less\\fixed-width.less",
+      "PackagePath": "staticwebassets\\font-awesome\\less\\fixed-width.less"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\font-awesome\\less\\font-awesome.less",
+      "PackagePath": "staticwebassets\\font-awesome\\less\\font-awesome.less"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\font-awesome\\less\\icons.less",
+      "PackagePath": "staticwebassets\\font-awesome\\less\\icons.less"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\font-awesome\\less\\larger.less",
+      "PackagePath": "staticwebassets\\font-awesome\\less\\larger.less"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\font-awesome\\less\\list.less",
+      "PackagePath": "staticwebassets\\font-awesome\\less\\list.less"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\font-awesome\\less\\mixins.less",
+      "PackagePath": "staticwebassets\\font-awesome\\less\\mixins.less"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\font-awesome\\less\\path.less",
+      "PackagePath": "staticwebassets\\font-awesome\\less\\path.less"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\font-awesome\\less\\rotated-flipped.less",
+      "PackagePath": "staticwebassets\\font-awesome\\less\\rotated-flipped.less"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\font-awesome\\less\\screen-reader.less",
+      "PackagePath": "staticwebassets\\font-awesome\\less\\screen-reader.less"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\font-awesome\\less\\stacked.less",
+      "PackagePath": "staticwebassets\\font-awesome\\less\\stacked.less"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\font-awesome\\less\\variables.less",
+      "PackagePath": "staticwebassets\\font-awesome\\less\\variables.less"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\font-awesome\\scss\\_animated.scss",
+      "PackagePath": "staticwebassets\\font-awesome\\scss\\_animated.scss"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\font-awesome\\scss\\_bordered-pulled.scss",
+      "PackagePath": "staticwebassets\\font-awesome\\scss\\_bordered-pulled.scss"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\font-awesome\\scss\\_core.scss",
+      "PackagePath": "staticwebassets\\font-awesome\\scss\\_core.scss"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\font-awesome\\scss\\_fixed-width.scss",
+      "PackagePath": "staticwebassets\\font-awesome\\scss\\_fixed-width.scss"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\font-awesome\\scss\\_icons.scss",
+      "PackagePath": "staticwebassets\\font-awesome\\scss\\_icons.scss"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\font-awesome\\scss\\_larger.scss",
+      "PackagePath": "staticwebassets\\font-awesome\\scss\\_larger.scss"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\font-awesome\\scss\\_list.scss",
+      "PackagePath": "staticwebassets\\font-awesome\\scss\\_list.scss"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\font-awesome\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\font-awesome\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\font-awesome\\scss\\_path.scss",
+      "PackagePath": "staticwebassets\\font-awesome\\scss\\_path.scss"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\font-awesome\\scss\\_rotated-flipped.scss",
+      "PackagePath": "staticwebassets\\font-awesome\\scss\\_rotated-flipped.scss"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\font-awesome\\scss\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\font-awesome\\scss\\_screen-reader.scss"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\font-awesome\\scss\\_stacked.scss",
+      "PackagePath": "staticwebassets\\font-awesome\\scss\\_stacked.scss"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\font-awesome\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\font-awesome\\scss\\_variables.scss"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\font-awesome\\scss\\font-awesome.scss",
+      "PackagePath": "staticwebassets\\font-awesome\\scss\\font-awesome.scss"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\font\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\font\\FontAwesome.otf"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\font\\aboutUsFont\\fontawesome\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\font\\aboutUsFont\\fontawesome\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\font\\aboutUsFont\\fontawesome\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\font\\aboutUsFont\\fontawesome\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\font\\aboutUsFont\\fontawesome\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\font\\aboutUsFont\\fontawesome\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\font\\aboutUsFont\\fontawesome\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\font\\aboutUsFont\\fontawesome\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\font\\aboutUsFont\\fontawesome\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\font\\aboutUsFont\\fontawesome\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\font\\aboutUsFont\\fontawesome\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\font\\aboutUsFont\\fontawesome\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\font\\aboutUsFont\\ionicons\\.DS_Store",
+      "PackagePath": "staticwebassets\\font\\aboutUsFont\\ionicons\\.DS_Store"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\font\\aboutUsFont\\ionicons\\cheatsheet.html",
+      "PackagePath": "staticwebassets\\font\\aboutUsFont\\ionicons\\cheatsheet.html"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\font\\aboutUsFont\\ionicons\\css\\ionicons.css",
+      "PackagePath": "staticwebassets\\font\\aboutUsFont\\ionicons\\css\\ionicons.css"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\font\\aboutUsFont\\ionicons\\css\\ionicons.min.css",
+      "PackagePath": "staticwebassets\\font\\aboutUsFont\\ionicons\\css\\ionicons.min.css"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\font\\aboutUsFont\\ionicons\\fonts\\ionicons.eot",
+      "PackagePath": "staticwebassets\\font\\aboutUsFont\\ionicons\\fonts\\ionicons.eot"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\font\\aboutUsFont\\ionicons\\fonts\\ionicons.svg",
+      "PackagePath": "staticwebassets\\font\\aboutUsFont\\ionicons\\fonts\\ionicons.svg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\font\\aboutUsFont\\ionicons\\fonts\\ionicons.ttf",
+      "PackagePath": "staticwebassets\\font\\aboutUsFont\\ionicons\\fonts\\ionicons.ttf"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\font\\aboutUsFont\\ionicons\\fonts\\ionicons.woff",
+      "PackagePath": "staticwebassets\\font\\aboutUsFont\\ionicons\\fonts\\ionicons.woff"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\font\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\font\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\font\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\font\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\font\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\font\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\font\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\font\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\font\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\font\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\font\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\font\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\font\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\font\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\font\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\font\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\font\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\font\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\font\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\font\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\2.jpg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\3.jpg",
+      "PackagePath": "staticwebassets\\images\\3.jpg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\4.jpg",
+      "PackagePath": "staticwebassets\\images\\4.jpg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\5.jpg",
+      "PackagePath": "staticwebassets\\images\\5.jpg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\6.jpg",
+      "PackagePath": "staticwebassets\\images\\6.jpg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\7.jpg",
+      "PackagePath": "staticwebassets\\images\\7.jpg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\8.jpg",
+      "PackagePath": "staticwebassets\\images\\8.jpg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\9.jpg",
+      "PackagePath": "staticwebassets\\images\\9.jpg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\a1.jpg",
+      "PackagePath": "staticwebassets\\images\\a1.jpg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\a2.jpg",
+      "PackagePath": "staticwebassets\\images\\a2.jpg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\ab.jpg",
+      "PackagePath": "staticwebassets\\images\\ab.jpg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\aboutUsImages\\about_feature_image.png",
+      "PackagePath": "staticwebassets\\images\\aboutUsImages\\about_feature_image.png"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\aboutUsImages\\food-1.jpg",
+      "PackagePath": "staticwebassets\\images\\aboutUsImages\\food-1.jpg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\aboutUsImages\\hero_1.jpg",
+      "PackagePath": "staticwebassets\\images\\aboutUsImages\\hero_1.jpg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\aboutUsImages\\hero_2.jpg",
+      "PackagePath": "staticwebassets\\images\\aboutUsImages\\hero_2.jpg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\aboutUsImages\\hero_3.jpg",
+      "PackagePath": "staticwebassets\\images\\aboutUsImages\\hero_3.jpg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\aboutUsImages\\hero_4.jpg",
+      "PackagePath": "staticwebassets\\images\\aboutUsImages\\hero_4.jpg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\aboutUsImages\\image_5.jpg",
+      "PackagePath": "staticwebassets\\images\\aboutUsImages\\image_5.jpg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\aboutUsImages\\image_6.jpg",
+      "PackagePath": "staticwebassets\\images\\aboutUsImages\\image_6.jpg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\aboutUsImages\\image_7.jpg",
+      "PackagePath": "staticwebassets\\images\\aboutUsImages\\image_7.jpg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\aboutUsImages\\img_1.jpg",
+      "PackagePath": "staticwebassets\\images\\aboutUsImages\\img_1.jpg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\aboutUsImages\\img_2.jpg",
+      "PackagePath": "staticwebassets\\images\\aboutUsImages\\img_2.jpg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\aboutUsImages\\img_3.jpg",
+      "PackagePath": "staticwebassets\\images\\aboutUsImages\\img_3.jpg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\aboutUsImages\\img_4.jpg",
+      "PackagePath": "staticwebassets\\images\\aboutUsImages\\img_4.jpg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\aboutUsImages\\img_5.jpg",
+      "PackagePath": "staticwebassets\\images\\aboutUsImages\\img_5.jpg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\aboutUsImages\\person_1.jpg",
+      "PackagePath": "staticwebassets\\images\\aboutUsImages\\person_1.jpg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\aboutUsImages\\person_2.jpg",
+      "PackagePath": "staticwebassets\\images\\aboutUsImages\\person_2.jpg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\aboutUsImages\\person_3.jpg",
+      "PackagePath": "staticwebassets\\images\\aboutUsImages\\person_3.jpg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\aboutUsImages\\person_4.jpg",
+      "PackagePath": "staticwebassets\\images\\aboutUsImages\\person_4.jpg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\aboutUsImages\\round.png",
+      "PackagePath": "staticwebassets\\images\\aboutUsImages\\round.png"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\aboutUsImages\\slider-1.jpg",
+      "PackagePath": "staticwebassets\\images\\aboutUsImages\\slider-1.jpg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\aboutUsImages\\slider-2.jpg",
+      "PackagePath": "staticwebassets\\images\\aboutUsImages\\slider-2.jpg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\aboutUsImages\\slider-3.jpg",
+      "PackagePath": "staticwebassets\\images\\aboutUsImages\\slider-3.jpg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\aboutUsImages\\slider-4.jpg",
+      "PackagePath": "staticwebassets\\images\\aboutUsImages\\slider-4.jpg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\aboutUsImages\\slider-5.jpg",
+      "PackagePath": "staticwebassets\\images\\aboutUsImages\\slider-5.jpg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\aboutUsImages\\slider-6.jpg",
+      "PackagePath": "staticwebassets\\images\\aboutUsImages\\slider-6.jpg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\aboutUsImages\\slider-7.jpg",
+      "PackagePath": "staticwebassets\\images\\aboutUsImages\\slider-7.jpg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\adminDashboardImages\\about.jpg",
+      "PackagePath": "staticwebassets\\images\\adminDashboardImages\\about.jpg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\adminDashboardImages\\call-to-action.jpg",
+      "PackagePath": "staticwebassets\\images\\adminDashboardImages\\call-to-action.jpg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\adminDashboardImages\\carousel-1.jpg",
+      "PackagePath": "staticwebassets\\images\\adminDashboardImages\\carousel-1.jpg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\adminDashboardImages\\carousel-2.jpg",
+      "PackagePath": "staticwebassets\\images\\adminDashboardImages\\carousel-2.jpg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\adminDashboardImages\\header.jpg",
+      "PackagePath": "staticwebassets\\images\\adminDashboardImages\\header.jpg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\adminDashboardImages\\icon-apartment.png",
+      "PackagePath": "staticwebassets\\images\\adminDashboardImages\\icon-apartment.png"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\adminDashboardImages\\icon-building.png",
+      "PackagePath": "staticwebassets\\images\\adminDashboardImages\\icon-building.png"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\adminDashboardImages\\icon-condominium.png",
+      "PackagePath": "staticwebassets\\images\\adminDashboardImages\\icon-condominium.png"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\adminDashboardImages\\icon-deal.png",
+      "PackagePath": "staticwebassets\\images\\adminDashboardImages\\icon-deal.png"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\adminDashboardImages\\icon-house.png",
+      "PackagePath": "staticwebassets\\images\\adminDashboardImages\\icon-house.png"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\adminDashboardImages\\icon-housing.png",
+      "PackagePath": "staticwebassets\\images\\adminDashboardImages\\icon-housing.png"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\adminDashboardImages\\icon-luxury.png",
+      "PackagePath": "staticwebassets\\images\\adminDashboardImages\\icon-luxury.png"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\adminDashboardImages\\icon-neighborhood.png",
+      "PackagePath": "staticwebassets\\images\\adminDashboardImages\\icon-neighborhood.png"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\adminDashboardImages\\icon-search.png",
+      "PackagePath": "staticwebassets\\images\\adminDashboardImages\\icon-search.png"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\adminDashboardImages\\icon-villa.png",
+      "PackagePath": "staticwebassets\\images\\adminDashboardImages\\icon-villa.png"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\adminDashboardImages\\property-1.jpg",
+      "PackagePath": "staticwebassets\\images\\adminDashboardImages\\property-1.jpg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\adminDashboardImages\\property-2.jpg",
+      "PackagePath": "staticwebassets\\images\\adminDashboardImages\\property-2.jpg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\adminDashboardImages\\property-3.jpg",
+      "PackagePath": "staticwebassets\\images\\adminDashboardImages\\property-3.jpg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\adminDashboardImages\\property-4.jpg",
+      "PackagePath": "staticwebassets\\images\\adminDashboardImages\\property-4.jpg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\adminDashboardImages\\property-5.jpg",
+      "PackagePath": "staticwebassets\\images\\adminDashboardImages\\property-5.jpg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\adminDashboardImages\\property-6.jpg",
+      "PackagePath": "staticwebassets\\images\\adminDashboardImages\\property-6.jpg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\adminDashboardImages\\team-1.jpg",
+      "PackagePath": "staticwebassets\\images\\adminDashboardImages\\team-1.jpg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\adminDashboardImages\\team-2.jpg",
+      "PackagePath": "staticwebassets\\images\\adminDashboardImages\\team-2.jpg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\adminDashboardImages\\team-3.jpg",
+      "PackagePath": "staticwebassets\\images\\adminDashboardImages\\team-3.jpg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\adminDashboardImages\\team-4.jpg",
+      "PackagePath": "staticwebassets\\images\\adminDashboardImages\\team-4.jpg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\adminDashboardImages\\testimonial-1.jpg",
+      "PackagePath": "staticwebassets\\images\\adminDashboardImages\\testimonial-1.jpg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\adminDashboardImages\\testimonial-2.jpg",
+      "PackagePath": "staticwebassets\\images\\adminDashboardImages\\testimonial-2.jpg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\adminDashboardImages\\testimonial-3.jpg",
+      "PackagePath": "staticwebassets\\images\\adminDashboardImages\\testimonial-3.jpg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\adminDashboardImages\\testimonial-4.jpg",
+      "PackagePath": "staticwebassets\\images\\adminDashboardImages\\testimonial-4.jpg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\arrow.png",
+      "PackagePath": "staticwebassets\\images\\arrow.png"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\banner-bottom.jpg",
+      "PackagePath": "staticwebassets\\images\\banner-bottom.jpg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\banner.jpg",
+      "PackagePath": "staticwebassets\\images\\banner.jpg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\close.png",
+      "PackagePath": "staticwebassets\\images\\close.png"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\d10.jpg",
+      "PackagePath": "staticwebassets\\images\\d10.jpg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\d11.jpg",
+      "PackagePath": "staticwebassets\\images\\d11.jpg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\d12.jpeg",
+      "PackagePath": "staticwebassets\\images\\d12.jpeg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\d13.jpeg",
+      "PackagePath": "staticwebassets\\images\\d13.jpeg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\d14.jpeg",
+      "PackagePath": "staticwebassets\\images\\d14.jpeg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\d15.jpeg",
+      "PackagePath": "staticwebassets\\images\\d15.jpeg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\d16.jpg",
+      "PackagePath": "staticwebassets\\images\\d16.jpg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\d17.jpg",
+      "PackagePath": "staticwebassets\\images\\d17.jpg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\d18.jpg",
+      "PackagePath": "staticwebassets\\images\\d18.jpg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\d19.jpg",
+      "PackagePath": "staticwebassets\\images\\d19.jpg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\d7.jpeg",
+      "PackagePath": "staticwebassets\\images\\d7.jpeg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\d8.jpeg",
+      "PackagePath": "staticwebassets\\images\\d8.jpeg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\d9.jpeg",
+      "PackagePath": "staticwebassets\\images\\d9.jpeg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\dashboardImages\\about.jpg",
+      "PackagePath": "staticwebassets\\images\\dashboardImages\\about.jpg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\dashboardImages\\bg_1.jpg",
+      "PackagePath": "staticwebassets\\images\\dashboardImages\\bg_1.jpg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\dashboardImages\\bg_2.jpg",
+      "PackagePath": "staticwebassets\\images\\dashboardImages\\bg_2.jpg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\dashboardImages\\image_1.jpg",
+      "PackagePath": "staticwebassets\\images\\dashboardImages\\image_1.jpg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\dashboardImages\\image_2.jpg",
+      "PackagePath": "staticwebassets\\images\\dashboardImages\\image_2.jpg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\dashboardImages\\image_3.jpg",
+      "PackagePath": "staticwebassets\\images\\dashboardImages\\image_3.jpg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\dashboardImages\\image_4.jpg",
+      "PackagePath": "staticwebassets\\images\\dashboardImages\\image_4.jpg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\dashboardImages\\image_5.jpg",
+      "PackagePath": "staticwebassets\\images\\dashboardImages\\image_5.jpg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\dashboardImages\\image_6.jpg",
+      "PackagePath": "staticwebassets\\images\\dashboardImages\\image_6.jpg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\dashboardImages\\loc.png",
+      "PackagePath": "staticwebassets\\images\\dashboardImages\\loc.png"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\dashboardImages\\person-1.jpg",
+      "PackagePath": "staticwebassets\\images\\dashboardImages\\person-1.jpg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\dashboardImages\\person-2.jpg",
+      "PackagePath": "staticwebassets\\images\\dashboardImages\\person-2.jpg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\dashboardImages\\person-3.jpg",
+      "PackagePath": "staticwebassets\\images\\dashboardImages\\person-3.jpg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\dashboardImages\\person_1.jpg",
+      "PackagePath": "staticwebassets\\images\\dashboardImages\\person_1.jpg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\dashboardImages\\person_2.jpg",
+      "PackagePath": "staticwebassets\\images\\dashboardImages\\person_2.jpg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\dashboardImages\\person_3.jpg",
+      "PackagePath": "staticwebassets\\images\\dashboardImages\\person_3.jpg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\dashboardImages\\person_4.jpg",
+      "PackagePath": "staticwebassets\\images\\dashboardImages\\person_4.jpg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\dashboardImages\\room-1.jpg",
+      "PackagePath": "staticwebassets\\images\\dashboardImages\\room-1.jpg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\dashboardImages\\room-2.jpg",
+      "PackagePath": "staticwebassets\\images\\dashboardImages\\room-2.jpg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\dashboardImages\\room-3.jpg",
+      "PackagePath": "staticwebassets\\images\\dashboardImages\\room-3.jpg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\dashboardImages\\room-4.jpg",
+      "PackagePath": "staticwebassets\\images\\dashboardImages\\room-4.jpg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\dashboardImages\\room-5.jpg",
+      "PackagePath": "staticwebassets\\images\\dashboardImages\\room-5.jpg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\dashboardImages\\room-6.jpg",
+      "PackagePath": "staticwebassets\\images\\dashboardImages\\room-6.jpg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\dashboardImages\\services-1.jpg",
+      "PackagePath": "staticwebassets\\images\\dashboardImages\\services-1.jpg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\dashboardImages\\services-2.jpg",
+      "PackagePath": "staticwebassets\\images\\dashboardImages\\services-2.jpg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\dashboardImages\\services-3.jpg",
+      "PackagePath": "staticwebassets\\images\\dashboardImages\\services-3.jpg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\download1.jpg",
+      "PackagePath": "staticwebassets\\images\\download1.jpg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\download6.jpg",
+      "PackagePath": "staticwebassets\\images\\download6.jpg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\faqImages\\about.jpg",
+      "PackagePath": "staticwebassets\\images\\faqImages\\about.jpg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\faqImages\\bg_1.jpg",
+      "PackagePath": "staticwebassets\\images\\faqImages\\bg_1.jpg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\faqImages\\bg_2.jpg",
+      "PackagePath": "staticwebassets\\images\\faqImages\\bg_2.jpg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\faqImages\\bg_3.jpg",
+      "PackagePath": "staticwebassets\\images\\faqImages\\bg_3.jpg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\faqImages\\bg_4.jpg",
+      "PackagePath": "staticwebassets\\images\\faqImages\\bg_4.jpg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\faqImages\\bg_5.jpg",
+      "PackagePath": "staticwebassets\\images\\faqImages\\bg_5.jpg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\faqImages\\destination-1.jpg",
+      "PackagePath": "staticwebassets\\images\\faqImages\\destination-1.jpg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\faqImages\\destination-2.jpg",
+      "PackagePath": "staticwebassets\\images\\faqImages\\destination-2.jpg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\faqImages\\destination-3.jpg",
+      "PackagePath": "staticwebassets\\images\\faqImages\\destination-3.jpg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\faqImages\\destination-4.jpg",
+      "PackagePath": "staticwebassets\\images\\faqImages\\destination-4.jpg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\faqImages\\destination-5.jpg",
+      "PackagePath": "staticwebassets\\images\\faqImages\\destination-5.jpg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\faqImages\\destination-6.jpg",
+      "PackagePath": "staticwebassets\\images\\faqImages\\destination-6.jpg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\faqImages\\hotel-1.jpg",
+      "PackagePath": "staticwebassets\\images\\faqImages\\hotel-1.jpg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\faqImages\\hotel-2.jpg",
+      "PackagePath": "staticwebassets\\images\\faqImages\\hotel-2.jpg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\faqImages\\hotel-3.jpg",
+      "PackagePath": "staticwebassets\\images\\faqImages\\hotel-3.jpg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\faqImages\\hotel-4.jpg",
+      "PackagePath": "staticwebassets\\images\\faqImages\\hotel-4.jpg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\faqImages\\hotel-5.jpg",
+      "PackagePath": "staticwebassets\\images\\faqImages\\hotel-5.jpg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\faqImages\\hotel-6.jpg",
+      "PackagePath": "staticwebassets\\images\\faqImages\\hotel-6.jpg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\faqImages\\image_1.jpg",
+      "PackagePath": "staticwebassets\\images\\faqImages\\image_1.jpg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\faqImages\\image_2.jpg",
+      "PackagePath": "staticwebassets\\images\\faqImages\\image_2.jpg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\faqImages\\image_3.jpg",
+      "PackagePath": "staticwebassets\\images\\faqImages\\image_3.jpg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\faqImages\\image_4.jpg",
+      "PackagePath": "staticwebassets\\images\\faqImages\\image_4.jpg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\faqImages\\image_5.jpg",
+      "PackagePath": "staticwebassets\\images\\faqImages\\image_5.jpg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\faqImages\\image_6.jpg",
+      "PackagePath": "staticwebassets\\images\\faqImages\\image_6.jpg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\faqImages\\image_7.jpg",
+      "PackagePath": "staticwebassets\\images\\faqImages\\image_7.jpg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\faqImages\\image_8.jpg",
+      "PackagePath": "staticwebassets\\images\\faqImages\\image_8.jpg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\faqImages\\loc.png",
+      "PackagePath": "staticwebassets\\images\\faqImages\\loc.png"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\faqImages\\person_1.jpg",
+      "PackagePath": "staticwebassets\\images\\faqImages\\person_1.jpg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\faqImages\\person_2.jpg",
+      "PackagePath": "staticwebassets\\images\\faqImages\\person_2.jpg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\faqImages\\person_3.jpg",
+      "PackagePath": "staticwebassets\\images\\faqImages\\person_3.jpg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\faqImages\\person_4.jpg",
+      "PackagePath": "staticwebassets\\images\\faqImages\\person_4.jpg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\faqImages\\restaurant-1.jpg",
+      "PackagePath": "staticwebassets\\images\\faqImages\\restaurant-1.jpg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\faqImages\\restaurant-2.jpg",
+      "PackagePath": "staticwebassets\\images\\faqImages\\restaurant-2.jpg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\faqImages\\restaurant-3.jpg",
+      "PackagePath": "staticwebassets\\images\\faqImages\\restaurant-3.jpg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\faqImages\\restaurant-4.jpg",
+      "PackagePath": "staticwebassets\\images\\faqImages\\restaurant-4.jpg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\faqImages\\restaurant-5.jpg",
+      "PackagePath": "staticwebassets\\images\\faqImages\\restaurant-5.jpg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\faqImages\\restaurant-7.jpg",
+      "PackagePath": "staticwebassets\\images\\faqImages\\restaurant-7.jpg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\faqImages\\room-1.jpg",
+      "PackagePath": "staticwebassets\\images\\faqImages\\room-1.jpg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\faqImages\\room-2.jpg",
+      "PackagePath": "staticwebassets\\images\\faqImages\\room-2.jpg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\faqImages\\room-3.jpg",
+      "PackagePath": "staticwebassets\\images\\faqImages\\room-3.jpg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\faqImages\\room-4.jpg",
+      "PackagePath": "staticwebassets\\images\\faqImages\\room-4.jpg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\faqImages\\room-5.jpg",
+      "PackagePath": "staticwebassets\\images\\faqImages\\room-5.jpg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\faqImages\\room-6.jpg",
+      "PackagePath": "staticwebassets\\images\\faqImages\\room-6.jpg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\featured_item_1.jpg",
+      "PackagePath": "staticwebassets\\images\\featured_item_1.jpg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\featured_item_2.jpg",
+      "PackagePath": "staticwebassets\\images\\featured_item_2.jpg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\featured_item_3.jpg",
+      "PackagePath": "staticwebassets\\images\\featured_item_3.jpg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\footer_logo.png",
+      "PackagePath": "staticwebassets\\images\\footer_logo.png"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\homeImage.jpg",
+      "PackagePath": "staticwebassets\\images\\homeImage.jpg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\icons.svg",
+      "PackagePath": "staticwebassets\\images\\icons.svg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\loading.gif",
+      "PackagePath": "staticwebassets\\images\\loading.gif"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\main_banner.jpg",
+      "PackagePath": "staticwebassets\\images\\main_banner.jpg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\managePropertyImages\\bg01.jpg",
+      "PackagePath": "staticwebassets\\images\\managePropertyImages\\bg01.jpg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\managePropertyImages\\bg02.jpg",
+      "PackagePath": "staticwebassets\\images\\managePropertyImages\\bg02.jpg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\managePropertyImages\\bg03.jpg",
+      "PackagePath": "staticwebassets\\images\\managePropertyImages\\bg03.jpg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\next.png",
+      "PackagePath": "staticwebassets\\images\\next.png"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\popular_item_1.jpg",
+      "PackagePath": "staticwebassets\\images\\popular_item_1.jpg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\popular_item_2.jpg",
+      "PackagePath": "staticwebassets\\images\\popular_item_2.jpg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\popular_item_3.jpg",
+      "PackagePath": "staticwebassets\\images\\popular_item_3.jpg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\popular_item_4.jpg",
+      "PackagePath": "staticwebassets\\images\\popular_item_4.jpg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\popular_item_5.jpg",
+      "PackagePath": "staticwebassets\\images\\popular_item_5.jpg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\prev.png",
+      "PackagePath": "staticwebassets\\images\\prev.png"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\search.png",
+      "PackagePath": "staticwebassets\\images\\search.png"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\service_icon_1.png",
+      "PackagePath": "staticwebassets\\images\\service_icon_1.png"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\service_icon_2.png",
+      "PackagePath": "staticwebassets\\images\\service_icon_2.png"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\service_icon_3.png",
+      "PackagePath": "staticwebassets\\images\\service_icon_3.png"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\t1.jpg",
+      "PackagePath": "staticwebassets\\images\\t1.jpg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\t2.jpg",
+      "PackagePath": "staticwebassets\\images\\t2.jpg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\t3.jpg",
+      "PackagePath": "staticwebassets\\images\\t3.jpg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\images\\t4.jpg",
+      "PackagePath": "staticwebassets\\images\\t4.jpg"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\js\\JS.js",
+      "PackagePath": "staticwebassets\\js\\JS.js"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\js\\LoginJS.js",
+      "PackagePath": "staticwebassets\\js\\LoginJS.js"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\js\\aboutUsJS\\aos.js",
+      "PackagePath": "staticwebassets\\js\\aboutUsJS\\aos.js"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\js\\aboutUsJS\\bootstrap-datepicker.js",
+      "PackagePath": "staticwebassets\\js\\aboutUsJS\\bootstrap-datepicker.js"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\js\\aboutUsJS\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\aboutUsJS\\bootstrap.min.js"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\js\\aboutUsJS\\jquery-3.3.1.min.js",
+      "PackagePath": "staticwebassets\\js\\aboutUsJS\\jquery-3.3.1.min.js"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\js\\aboutUsJS\\jquery-migrate-3.0.1.min.js",
+      "PackagePath": "staticwebassets\\js\\aboutUsJS\\jquery-migrate-3.0.1.min.js"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\js\\aboutUsJS\\jquery.fancybox.min.js",
+      "PackagePath": "staticwebassets\\js\\aboutUsJS\\jquery.fancybox.min.js"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\js\\aboutUsJS\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\js\\aboutUsJS\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\js\\aboutUsJS\\jquery.stellar.min.js",
+      "PackagePath": "staticwebassets\\js\\aboutUsJS\\jquery.stellar.min.js"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\js\\aboutUsJS\\jquery.timepicker.min.js",
+      "PackagePath": "staticwebassets\\js\\aboutUsJS\\jquery.timepicker.min.js"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\js\\aboutUsJS\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\js\\aboutUsJS\\jquery.validate.min.js"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\js\\aboutUsJS\\jquery.waypoints.min.js",
+      "PackagePath": "staticwebassets\\js\\aboutUsJS\\jquery.waypoints.min.js"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\js\\aboutUsJS\\main.js",
+      "PackagePath": "staticwebassets\\js\\aboutUsJS\\main.js"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\js\\aboutUsJS\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\js\\aboutUsJS\\owl.carousel.min.js"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\js\\aboutUsJS\\popper.min.js",
+      "PackagePath": "staticwebassets\\js\\aboutUsJS\\popper.min.js"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\js\\adminDashboardJS\\main.js",
+      "PackagePath": "staticwebassets\\js\\adminDashboardJS\\main.js"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\js\\chat.js",
+      "PackagePath": "staticwebassets\\js\\chat.js"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\js\\costJS.js",
+      "PackagePath": "staticwebassets\\js\\costJS.js"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\js\\counterup.min.js",
+      "PackagePath": "staticwebassets\\js\\counterup.min.js"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\js\\dashboardJS\\bootstrap-datepicker.js",
+      "PackagePath": "staticwebassets\\js\\dashboardJS\\bootstrap-datepicker.js"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\js\\dashboardJS\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\dashboardJS\\bootstrap.min.js"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\js\\dashboardJS\\google-map.js",
+      "PackagePath": "staticwebassets\\js\\dashboardJS\\google-map.js"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\js\\dashboardJS\\jquery-3.2.1.min.js",
+      "PackagePath": "staticwebassets\\js\\dashboardJS\\jquery-3.2.1.min.js"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\js\\dashboardJS\\jquery-migrate-3.0.1.min.js",
+      "PackagePath": "staticwebassets\\js\\dashboardJS\\jquery-migrate-3.0.1.min.js"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\js\\dashboardJS\\jquery.animateNumber.min.js",
+      "PackagePath": "staticwebassets\\js\\dashboardJS\\jquery.animateNumber.min.js"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\js\\dashboardJS\\jquery.easing.1.3.js",
+      "PackagePath": "staticwebassets\\js\\dashboardJS\\jquery.easing.1.3.js"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\js\\dashboardJS\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\js\\dashboardJS\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\js\\dashboardJS\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\dashboardJS\\jquery.min.js"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\js\\dashboardJS\\jquery.stellar.min.js",
+      "PackagePath": "staticwebassets\\js\\dashboardJS\\jquery.stellar.min.js"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\js\\dashboardJS\\jquery.timepicker.min.js",
+      "PackagePath": "staticwebassets\\js\\dashboardJS\\jquery.timepicker.min.js"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\js\\dashboardJS\\jquery.waypoints.min.js",
+      "PackagePath": "staticwebassets\\js\\dashboardJS\\jquery.waypoints.min.js"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\js\\dashboardJS\\main.js",
+      "PackagePath": "staticwebassets\\js\\dashboardJS\\main.js"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\js\\dashboardJS\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\js\\dashboardJS\\owl.carousel.min.js"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\js\\dashboardJS\\popper.min.js",
+      "PackagePath": "staticwebassets\\js\\dashboardJS\\popper.min.js"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\js\\dashboardJS\\scrollax.min.js",
+      "PackagePath": "staticwebassets\\js\\dashboardJS\\scrollax.min.js"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\js\\easing.js",
+      "PackagePath": "staticwebassets\\js\\easing.js"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\js\\faqJS\\aos.js",
+      "PackagePath": "staticwebassets\\js\\faqJS\\aos.js"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\js\\faqJS\\bootstrap-datepicker.js",
+      "PackagePath": "staticwebassets\\js\\faqJS\\bootstrap-datepicker.js"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\js\\faqJS\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\faqJS\\bootstrap.min.js"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\js\\faqJS\\google-map.js",
+      "PackagePath": "staticwebassets\\js\\faqJS\\google-map.js"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\js\\faqJS\\jquery-3.2.1.min.js",
+      "PackagePath": "staticwebassets\\js\\faqJS\\jquery-3.2.1.min.js"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\js\\faqJS\\jquery-migrate-3.0.1.min.js",
+      "PackagePath": "staticwebassets\\js\\faqJS\\jquery-migrate-3.0.1.min.js"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\js\\faqJS\\jquery.animateNumber.min.js",
+      "PackagePath": "staticwebassets\\js\\faqJS\\jquery.animateNumber.min.js"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\js\\faqJS\\jquery.easing.1.3.js",
+      "PackagePath": "staticwebassets\\js\\faqJS\\jquery.easing.1.3.js"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\js\\faqJS\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\js\\faqJS\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\js\\faqJS\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\faqJS\\jquery.min.js"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\js\\faqJS\\jquery.stellar.min.js",
+      "PackagePath": "staticwebassets\\js\\faqJS\\jquery.stellar.min.js"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\js\\faqJS\\jquery.waypoints.min.js",
+      "PackagePath": "staticwebassets\\js\\faqJS\\jquery.waypoints.min.js"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\js\\faqJS\\main.js",
+      "PackagePath": "staticwebassets\\js\\faqJS\\main.js"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\js\\faqJS\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\js\\faqJS\\owl.carousel.min.js"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\js\\faqJS\\popper.min.js",
+      "PackagePath": "staticwebassets\\js\\faqJS\\popper.min.js"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\js\\faqJS\\range.js",
+      "PackagePath": "staticwebassets\\js\\faqJS\\range.js"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\js\\faqJS\\scrollax.min.js",
+      "PackagePath": "staticwebassets\\js\\faqJS\\scrollax.min.js"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\js\\homeJS.js",
+      "PackagePath": "staticwebassets\\js\\homeJS.js"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\js\\jquery-2.2.3.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-2.2.3.min.js"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\js\\jquery.swipebox.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.swipebox.min.js"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\js\\managePropertyJS\\main.js",
+      "PackagePath": "staticwebassets\\js\\managePropertyJS\\main.js"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\js\\modernizr-2.6.2.min.js",
+      "PackagePath": "staticwebassets\\js\\modernizr-2.6.2.min.js"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\js\\move-top.js",
+      "PackagePath": "staticwebassets\\js\\move-top.js"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\js\\responsiveslides.min.js",
+      "PackagePath": "staticwebassets\\js\\responsiveslides.min.js"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\js\\search-datepicker.js",
+      "PackagePath": "staticwebassets\\js\\search-datepicker.js"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\js\\search-main.js",
+      "PackagePath": "staticwebassets\\js\\search-main.js"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\js\\search-plugins.js",
+      "PackagePath": "staticwebassets\\js\\search-plugins.js"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\js\\signalr\\dist\\browser\\signalr.js",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\browser\\signalr.js"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\js\\signalr\\dist\\browser\\signalr.min.js",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\browser\\signalr.min.js"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\js\\societyPriceRankJS\\societyPriceRank.js",
+      "PackagePath": "staticwebassets\\js\\societyPriceRankJS\\societyPriceRank.js"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\js\\vendor\\bootstrap.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\bootstrap.js"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\js\\vendor\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\bootstrap.min.js"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\js\\vendor\\jquery-1.11.2.min.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\jquery-1.11.2.min.js"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\js\\vendor\\modernizr-2.8.3-respond-1.4.2.min.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\modernizr-2.8.3-respond-1.4.2.min.js"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\js\\vendor\\npm.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\npm.js"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\js\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\js\\waypoints.min.js"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\lib\\AdminDashboardLib\\animate\\animate.css",
+      "PackagePath": "staticwebassets\\lib\\AdminDashboardLib\\animate\\animate.css"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\lib\\AdminDashboardLib\\animate\\animate.min.css",
+      "PackagePath": "staticwebassets\\lib\\AdminDashboardLib\\animate\\animate.min.css"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\lib\\AdminDashboardLib\\easing\\easing.js",
+      "PackagePath": "staticwebassets\\lib\\AdminDashboardLib\\easing\\easing.js"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\lib\\AdminDashboardLib\\easing\\easing.min.js",
+      "PackagePath": "staticwebassets\\lib\\AdminDashboardLib\\easing\\easing.min.js"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\lib\\AdminDashboardLib\\owlcarousel\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\AdminDashboardLib\\owlcarousel"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\lib\\AdminDashboardLib\\owlcarousel\\assets\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\lib\\AdminDashboardLib\\owlcarousel\\assets\\ajax-loader.gif"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\lib\\AdminDashboardLib\\owlcarousel\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\lib\\AdminDashboardLib\\owlcarousel\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\lib\\AdminDashboardLib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\lib\\AdminDashboardLib\\owlcarousel\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\lib\\AdminDashboardLib\\owlcarousel\\assets\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\lib\\AdminDashboardLib\\owlcarousel\\assets\\owl.theme.default.css"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\lib\\AdminDashboardLib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\lib\\AdminDashboardLib\\owlcarousel\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\lib\\AdminDashboardLib\\owlcarousel\\assets\\owl.theme.green.css",
+      "PackagePath": "staticwebassets\\lib\\AdminDashboardLib\\owlcarousel\\assets\\owl.theme.green.css"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\lib\\AdminDashboardLib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "PackagePath": "staticwebassets\\lib\\AdminDashboardLib\\owlcarousel\\assets\\owl.theme.green.min.css"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\lib\\AdminDashboardLib\\owlcarousel\\assets\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\lib\\AdminDashboardLib\\owlcarousel\\assets\\owl.video.play.png"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\lib\\AdminDashboardLib\\owlcarousel\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\lib\\AdminDashboardLib\\owlcarousel\\owl.carousel.js"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\lib\\AdminDashboardLib\\owlcarousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\lib\\AdminDashboardLib\\owlcarousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\lib\\AdminDashboardLib\\waypoints\\links.php",
+      "PackagePath": "staticwebassets\\lib\\AdminDashboardLib\\waypoints\\links.php"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\lib\\AdminDashboardLib\\waypoints\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\lib\\AdminDashboardLib\\waypoints\\waypoints.min.js"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\lib\\AdminDashboardLib\\wow\\wow.js",
+      "PackagePath": "staticwebassets\\lib\\AdminDashboardLib\\wow\\wow.js"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\lib\\AdminDashboardLib\\wow\\wow.min.js",
+      "PackagePath": "staticwebassets\\lib\\AdminDashboardLib\\wow\\wow.min.js"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\obj\\Debug\\net6.0\\.NETCoreApp,Version=v6.0.AssemblyAttributes.cs",
+      "PackagePath": "staticwebassets\\obj\\Debug\\net6.0\\.NETCoreApp,Version=v6.0.AssemblyAttributes.cs"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\obj\\Debug\\net6.0\\WebApplication2.AssemblyInfo.cs",
+      "PackagePath": "staticwebassets\\obj\\Debug\\net6.0\\WebApplication2.AssemblyInfo.cs"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\obj\\Debug\\net6.0\\WebApplication2.AssemblyInfoInputs.cache",
+      "PackagePath": "staticwebassets\\obj\\Debug\\net6.0\\WebApplication2.AssemblyInfoInputs.cache"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\obj\\Debug\\net6.0\\WebApplication2.GeneratedMSBuildEditorConfig.editorconfig",
+      "PackagePath": "staticwebassets\\obj\\Debug\\net6.0\\WebApplication2.GeneratedMSBuildEditorConfig.editorconfig"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\obj\\Debug\\net6.0\\WebApplication2.GlobalUsings.g.cs",
+      "PackagePath": "staticwebassets\\obj\\Debug\\net6.0\\WebApplication2.GlobalUsings.g.cs"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\obj\\Debug\\net6.0\\WebApplication2.MvcApplicationPartsAssemblyInfo.cache",
+      "PackagePath": "staticwebassets\\obj\\Debug\\net6.0\\WebApplication2.MvcApplicationPartsAssemblyInfo.cache"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\obj\\Debug\\net6.0\\WebApplication2.RazorAssemblyInfo.cache",
+      "PackagePath": "staticwebassets\\obj\\Debug\\net6.0\\WebApplication2.RazorAssemblyInfo.cache"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\obj\\Debug\\net6.0\\WebApplication2.RazorAssemblyInfo.cs",
+      "PackagePath": "staticwebassets\\obj\\Debug\\net6.0\\WebApplication2.RazorAssemblyInfo.cs"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\obj\\Debug\\net6.0\\WebApplication2.assets.cache",
+      "PackagePath": "staticwebassets\\obj\\Debug\\net6.0\\WebApplication2.assets.cache"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\obj\\Debug\\net6.0\\WebApplication2.csproj.AssemblyReference.cache",
+      "PackagePath": "staticwebassets\\obj\\Debug\\net6.0\\WebApplication2.csproj.AssemblyReference.cache"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\obj\\Debug\\net6.0\\WebApplication2.csproj.BuildWithSkipAnalyzers",
+      "PackagePath": "staticwebassets\\obj\\Debug\\net6.0\\WebApplication2.csproj.BuildWithSkipAnalyzers"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\obj\\Debug\\net6.0\\WebApplication2.csproj.CopyComplete",
+      "PackagePath": "staticwebassets\\obj\\Debug\\net6.0\\WebApplication2.csproj.CopyComplete"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\obj\\Debug\\net6.0\\WebApplication2.csproj.CoreCompileInputs.cache",
+      "PackagePath": "staticwebassets\\obj\\Debug\\net6.0\\WebApplication2.csproj.CoreCompileInputs.cache"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\obj\\Debug\\net6.0\\WebApplication2.csproj.FileListAbsolute.txt",
+      "PackagePath": "staticwebassets\\obj\\Debug\\net6.0\\WebApplication2.csproj.FileListAbsolute.txt"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\obj\\Debug\\net6.0\\WebApplication2.dll",
+      "PackagePath": "staticwebassets\\obj\\Debug\\net6.0\\WebApplication2.dll"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\obj\\Debug\\net6.0\\WebApplication2.genruntimeconfig.cache",
+      "PackagePath": "staticwebassets\\obj\\Debug\\net6.0\\WebApplication2.genruntimeconfig.cache"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\obj\\Debug\\net6.0\\WebApplication2.pdb",
+      "PackagePath": "staticwebassets\\obj\\Debug\\net6.0\\WebApplication2.pdb"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\obj\\Debug\\net6.0\\apphost.exe",
+      "PackagePath": "staticwebassets\\obj\\Debug\\net6.0\\apphost.exe"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\obj\\Debug\\net6.0\\project.razor.vs.json",
+      "PackagePath": "staticwebassets\\obj\\Debug\\net6.0\\project.razor.vs.json"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\obj\\Debug\\net6.0\\ref\\WebApplication2.dll",
+      "PackagePath": "staticwebassets\\obj\\Debug\\net6.0\\ref\\WebApplication2.dll"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\obj\\Debug\\net6.0\\refint\\WebApplication2.dll",
+      "PackagePath": "staticwebassets\\obj\\Debug\\net6.0\\refint\\WebApplication2.dll"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\obj\\Debug\\net6.0\\staticwebassets.build.json",
+      "PackagePath": "staticwebassets\\obj\\Debug\\net6.0\\staticwebassets.build.json"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\obj\\Debug\\net6.0\\staticwebassets.development.json",
+      "PackagePath": "staticwebassets\\obj\\Debug\\net6.0\\staticwebassets.development.json"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\obj\\Debug\\net6.0\\staticwebassets.pack.json",
+      "PackagePath": "staticwebassets\\obj\\Debug\\net6.0\\staticwebassets.pack.json"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\obj\\Debug\\net6.0\\staticwebassets\\msbuild.WebApplication2.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "staticwebassets\\obj\\Debug\\net6.0\\staticwebassets\\msbuild.WebApplication2.Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.WebApplication2.props",
+      "PackagePath": "staticwebassets\\obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.WebApplication2.props"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.WebApplication2.props",
+      "PackagePath": "staticwebassets\\obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.WebApplication2.props"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.WebApplication2.props",
+      "PackagePath": "staticwebassets\\obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.WebApplication2.props"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\obj\\WebApplication2.csproj.nuget.dgspec.json",
+      "PackagePath": "staticwebassets\\obj\\WebApplication2.csproj.nuget.dgspec.json"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\obj\\WebApplication2.csproj.nuget.g.props",
+      "PackagePath": "staticwebassets\\obj\\WebApplication2.csproj.nuget.g.props"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\obj\\WebApplication2.csproj.nuget.g.targets",
+      "PackagePath": "staticwebassets\\obj\\WebApplication2.csproj.nuget.g.targets"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\obj\\project.assets.json",
+      "PackagePath": "staticwebassets\\obj\\project.assets.json"
+    },
+    {
+      "Id": "W:\\University\\6th Smester\\2. Software Construction & Development (Dr. Shuja ur Rehman Baig)\\Pak Properties\\wwwroot\\obj\\project.nuget.cache",
+      "PackagePath": "staticwebassets\\obj\\project.nuget.cache"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Pak Properties.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Pak Properties.props",
+      "PackagePath": "build\\Pak Properties.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Pak Properties.props",
+      "PackagePath": "buildMultiTargeting\\Pak Properties.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Pak Properties.props",
+      "PackagePath": "buildTransitive\\Pak Properties.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

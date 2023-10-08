@@ -1,0 +1,74 @@
+﻿@{
+	Layout = "~/Views/Shared/NavBarLayout.cshtml";
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>AdminLogin</title>
+<!-- for-mobile-apps -->
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="Pro Property Responsive web template, Bootstrap Web Templates, Flat Web Templates, Android Compatible web template,Smartphone Compatible web template, free web designs for Nokia, Samsung, LG, SonyEricsson, Motorola web design" />
+
+<link rel="stylesheet" href="../css/loginStyle.css">
+
+
+</head>
+
+<body>
+<h2</h2>
+<div class="container" id="container">
+	<div class="form-container sign-up-container">
+		<form action="/AdminLogin/AdminRegisterIndex" method="post">
+			<h1>Create Account</h1>
+
+			<input type="text" placeholder="Name" name="Name" required/>
+			<input type="text" placeholder="Email" name="Email" required/>
+			<input type="text" placeholder="Password" name="Password" required/>
+			<input type="text" placeholder="Password" name="City" required/>
+			<button>Sign Up</button>
+		</form>
+	</div>
+	<div class="form-container sign-in-container">
+		<form action="/AdminLogin/AdminLoginDataIndex" method="post">
+			<h1>Sign in</h1>
+
+
+			<input type="text" placeholder="Email" name="Email" required/>
+			<input type="text" placeholder="Password" name="Password" required/>
+			<a href="#">Forgot your password?</a>
+			<button>Sign In</button>
+		</form>
+	</div>
+	<div class="overlay-container">
+		<div class="overlay">
+			<div class="overlay-panel overlay-left">
+				<h1>Welcome Back!</h1>
+				<p>To keep connected with us please login with your personal info</p>
+				<button class="ghost" id="signIn">Sign In</button>
+			</div>
+			<div class="overlay-panel overlay-right">
+				<h1>Hello, Friend!</h1>
+				<p>Enter your personal details and start journey with us</p>
+				<button class="ghost" id="signUp">Sign Up</button>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+<script>
+	const signUpButton = document.getElementById('signUp');
+const signInButton = document.getElementById('signIn');
+const container = document.getElementById('container');
+
+signUpButton.addEventListener('click', () => {
+	container.classList.add("right-panel-active");
+});
+
+signInButton.addEventListener('click', () => {
+	container.classList.remove("right-panel-active");
+});
+</script>
+</body>
+</html>
