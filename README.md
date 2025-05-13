@@ -19,7 +19,7 @@ A dynamic and interactive real estate web platform built using ASP.NET MVC and M
 - **Real-Time Communication:** SignalR
 - **ORM:** Entity Framework
 
-## 🧪 How to Run Locally
+## How to Run Locally
 
 ### 1. Clone the Repository
 
